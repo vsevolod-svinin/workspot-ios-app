@@ -4,7 +4,7 @@ WorkSpot is a SwiftUI-based iOS prototype designed to help users discover suitab
 
 ## Preview
 
-![WorkSpot main screen](Screenshots/main-screen.png)
+![WorkSpot main screen](https://github.com/vsevolod-svinin/workspot-ios-app/blob/main/Screenshots/1.Map%20and%20Place%20Selection.png)
 
 ## Features
 
@@ -18,7 +18,7 @@ WorkSpot is a SwiftUI-based iOS prototype designed to help users discover suitab
 
 ## Project Documentation
 
-[View the project description (PDF)](Documentation/WorkSpot_Project_Description.pdf)
+[View the project description (PDF)](https://github.com/vsevolod-svinin/workspot-ios-app/blob/main/Documentation/WorkSpot_Project_Description.pdf)
 
 ## Technologies
 
